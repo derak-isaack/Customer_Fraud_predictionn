@@ -29,10 +29,11 @@ One way of dealing with class imbalance in the data is using **Oversampling** or
 Using the various logistic regression models, the best model among them is the **XG Boost** model which performs way better than all the other models. Our main goal is minimizing the number of **False negatives(Fraud transactions classified as non-fraud)**. With tuning of the model's parameters, this score can be greatly minimized. 
 
 Before tuning:
-  ![Confuison matrix](xgb1.png)
+  ![Confusion matrix](xgb1.png)
 
 After tuning:
-  ![Fraud distribution by year](xgb2.png)
+
+  ![Confusion matrix after tuning](xgb2.png)
 
 The model has an **AUC** score of above **0.5** which is one signal that the model performs better. 
 
