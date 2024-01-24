@@ -1,5 +1,7 @@
 ## <ins> Customer fraud prediction </ins>
 
+![Alt text](traffic-signs-464641_1920.jpg)
+
 Banks and financial institutions alike suffer from the possibility of fraudulent transactions. This is a very major draw-back because it paints a bad image to major financial institutions. One major way to address the fraud transaction draw-back is developing machine learning models that may help in flagging fraud transactions. Machine learning models dive deeper into analyzing the data an deriving meaningful insights. 
 
 ## <ins> Data analysis </ins>
